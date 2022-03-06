@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 env/
 data.zip
+*.jpg
+*.txt
+*.db
+*.docx
